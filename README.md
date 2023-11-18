@@ -30,3 +30,4 @@ pip install pandas xgboost matplotlib scikit-learn imbalanced-learn joblib shap 
 1. Prepare your dataset in a CSV format similar to the one used in this project.
 2. Update the `path`, `delimiter`, `target_column`, and `categorical` variables in the script to match your dataset.
 3. Run the Jupyter Notebooks to train the model, evaluate its performance, and interpret the results.
+4. Check [UC Irvine Student Academic Performance Dataset](http://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) for a key for the variables.
